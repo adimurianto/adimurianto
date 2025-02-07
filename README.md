@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Adi Murianto</h1>
-<h3 align="center">A web developer from Indonesian</h3>
+<h3 align="center">A fullstack developer from Indonesian</h3>
 
 <p>
   <h3>Things I code with</h3>
